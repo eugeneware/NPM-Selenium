@@ -1,11 +1,12 @@
 {
   "author": "Didit Tech <developers@didit.com>",
   "contributors": [
-    "Eugene Ware <eugene@noblesamurai.com>"
+    "Eugene Ware <eugene@noblesamurai.com>",
+    "Dariusz Siedlecki <datrio@gmail.com>"
   ],
   "name": "selenium-server",
   "description": "Selenium in an npm package",
-  "version": "2.35.0",
+  "version": "2.38.0",
   "keywords": [
     "bdd",
     "tdd",
