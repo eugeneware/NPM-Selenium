@@ -16,6 +16,7 @@
     "standalone",
     "testing"
   ],
+  "main": "lib/selenium-server.js",
   "bin": {
     "selenium": "./bin/selenium"
   },
