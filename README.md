@@ -10,7 +10,7 @@ Node wrapper for Selenium
 
     selenium &
 
-#Running via node
+# Using via node
 
 The package exports a `path` string that contains the path to the
 selenium server binary/executable.
