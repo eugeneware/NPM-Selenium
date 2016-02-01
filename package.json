@@ -8,7 +8,7 @@
   ],
   "name": "selenium-server",
   "description": "Selenium in an npm package",
-  "version": "2.50.0",
+  "version": "2.50.1",
   "keywords": [
     "bdd",
     "tdd",
