@@ -29,5 +29,5 @@
     "type": "git",
     "url": "git://github.com/eugeneware/selenium-server.git"
   },
-  "license": "BSD"
+  "license": "BSD-3-Clause"
 }
